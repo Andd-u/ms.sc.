@@ -1,2 +1,2 @@
 # M.Sc.
-Some projects of Glasgow QF
+Some projects from Glasgow QF
